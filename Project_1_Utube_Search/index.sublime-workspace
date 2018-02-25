@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"powerOf2"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"str",
+				"str2"
+			],
+			[
+				"a",
+				"arrayReverse"
+			],
+			[
+				"arra",
+				"arraySort"
+			],
+			[
+				"len",
+				"len-1"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"f",
+				"fprintf\tfprintf …"
+			],
+			[
+				"arr",
+				"arraySearch"
+			],
+			[
+				"m",
+				"arrayMax"
+			],
+			[
+				"p",
+				"printArray"
+			],
+			[
+				"de",
+				"destination"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"gcd",
+				"gcdRes"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"valu",
+				"valueB"
+			],
+			[
+				"c",
+				"column"
+			],
+			[
+				"di",
+				"divisor"
+			],
+			[
+				"ma",
+				"maxDivisor"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"rand",
+				"randHitF"
+			],
+			[
+				"ran",
+				"randPoint"
+			],
+			[
+				"fi",
+				"fighter"
+			],
+			[
+				"i",
+				"improvedFighter"
+			],
+			[
+				"fo",
+				"ford"
+			],
+			[
+				"ca",
+				"carsSet"
+			],
+			[
+				"car",
+				"carsSet"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"new",
+				"newHire"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pro",
+				"property"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lo",
+				"logChangeString"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"pr",
+				"prop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Marianna/Desktop/chapter-1-examples.tar",
+		"/C/Users/Marianna/Desktop/chapter-1-examples.tgz",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/average",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayFullLib.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayFullLib.h",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrLibTest.c",
+		"/C/Users/Marianna/Desktop/hello_world.bson",
+		"/C/Users/Marianna/Desktop/movies_inserts.js",
+		"/C/Users/Marianna/Desktop/hello_bottle.py",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1.zip",
+		"/C/Users/Marianna/Desktop/pymongo_getting_started.py",
+		"/C/Users/Marianna/Desktop/h1/hw1.metadata.json",
+		"/C/Users/Marianna/Desktop/h1/funnynumbers.metadata.json",
+		"/C/Users/Marianna/Desktop/h1/hw1.bson",
+		"/C/Users/Marianna/Desktop/hello_bottle__m101p_54ffa9bcd8ca390acc94ceef.7bfada66c677.py",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/bender_array.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayCopy_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/array.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/fibonacci.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/char.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/icm.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/intScan_func.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayAbs_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayPrint().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arraySum_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayMax_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayMin_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arraySearch_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayScan().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/Isearch.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/string.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/abs.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/sliceReverse.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayExchange.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayShiftLeft.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/sliceShiftLeft.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/sliceShiftRight.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayShiftRight.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/task.out",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/task.in",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/base.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arraySort.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strLen_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strLen.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/rot13.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/base2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/isPowerOf2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_powerOf2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayReverse_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strReverse.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strEqual_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/test_my.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strCopy_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strEqual.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strRot13_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/strUpperCase_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/powerOf2_ff.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/sequenceLen.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayPrintReversed_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayLib.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/main.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/files.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayIncrement().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/gcd_func.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/abs_v2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/bitwise.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/lowerCase.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayMin.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/upperCase.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/factorial_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/frob.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/powerOf2_f.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/divMin_myShort.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/divMin.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/overflow.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/places.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/memory.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_maxN.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_ma",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/fileSum.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/malloc.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/arrayZeroFill().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/pointerIncrement().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/newbase.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/newbase_hex.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/number_converter.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w2/number_newbase.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_divN.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_powerOfX.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_div3.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_nextMultiple.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/test2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_evenSquare.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_oddCubed.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_divisorCounter.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_isPrime_func.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_square2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_crypt.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/vitalik2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_23_odd.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_pyramid1.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_pyramid.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_pyramid_alt.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_prime.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_square2rev.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_maxDivisor.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_callCost.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_pyramid2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_square1.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_odd2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_even2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_ariProg.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_multipleN.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_average().c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_pyramid1rev.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_div2.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_22_even.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_factorial.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_isSorted.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_isSortedN.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/isSorted",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_password.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_6_nextEven.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_even2",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_div3_new.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_24_multiple3.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_amoeba.c",
+		"/C/MinGW/msys/1.0/home/user/DEV/w1/bender_amoeba"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arraySh",
+			"#include <stdio.h>\n\nint main() {\n    int number;\n    int power = 1;\n    \n    scanf(\"%d\", &number);\n    \n    for ( ; power < number; power *= 2 );\n    if ( number == power ) {\n        printf(\"yes\\n\");\n    } else {\n        printf(\"no\\n\");\n    }\n\n    return 0;\n}",
+			";\n",
+			"(\"%",
+			"-= ",
+			";\n",
+			"[] ",
+			"\"%",
+			"str",
+			"out",
+			";\n",
+			"cfscanf",
+			")];",
+			"len",
+			" \",",
+			"temp",
+			"}\n",
+			"{\n",
+			"1",
+			";\n",
+			"5",
+			"\");\n",
+			"1",
+			"j",
+			"< ",
+			"];\n",
+			"j",
+			"size",
+			"1",
+			"]);",
+			" ;",
+			"1",
+			"size",
+			"    \n",
+			"i",
+			"printf",
+			"1",
+			"++ ",
+			"j",
+			"size",
+			"1",
+			"n",
+			"<= ",
+			";t",
+			"()]);",
+			"health",
+			"power",
+			"name",
+			"\"};",
+			"ourScore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"home"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
